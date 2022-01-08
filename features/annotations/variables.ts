@@ -25,9 +25,9 @@ myNumbers.push(5);
 let truths: boolean[] = [true, true, false];
 
 // Classes
-class Car {}
+class Car0 {}
 
-let car: Car = new Car();
+let car0: Car = new Car();
 
 // Object literal
 let point: { x: number; y: number } = {
