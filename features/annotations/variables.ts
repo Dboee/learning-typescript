@@ -1,6 +1,6 @@
 const apples: number = 5;
 // : numer
-// is the type annotaion
+// is the type annnnnnnotaion
 
 // We usually use const in cases where we make strict rules
 // but for demonstration purposes we will use let here.
